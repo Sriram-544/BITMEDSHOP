@@ -63,7 +63,7 @@
     "@babel/plugin-transform-private-property-in-object": "^7.23.3",
     "@babel/preset-env": "^7.22.5"
   },
-  "proxy": "http://192.168.1.10:4000",
+  "proxy": "http://192.168.154.198:3000",
   "plugins": [
     [
       "@babel/plugin-proposal-private-property-in-object",
